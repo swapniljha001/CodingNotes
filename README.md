@@ -1,2 +1,2 @@
 # CodingNotes
-I will upload my programming related Google Collab notebooks here.
+I will upload my programming related Google Colab notebooks here.
