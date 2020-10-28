@@ -3,8 +3,10 @@
 * Comparison of Float values in C | [geeksforgeeks.org/comparison-float-value-c](https://www.geeksforgeeks.org/comparison-float-value-c/)
 * FreeCodeCamp.org | C++ Tutorial for Beginners- Full Course | [youtu.be/vLnPwxZdW4Y](https://youtu.be/vLnPwxZdW4Y)
 * How to modify a `const` variable in C | [geeksforgeeks.org/how-to-modify-a-const-variable-in-c](https://www.geeksforgeeks.org/how-to-modify-a-const-variable-in-c/)
-* How to use Google Colab to Run C++ Code | [blog.abivin.vn/2020/01/how-to-use-google-colab-to-run-c-code](https://blog.abivin.vn/2020/01/how-to-use-google-colab-to-run-c-code.html?m=1)
-![]()
+
+* How to use **Google Colab** to Run C++ Code | [blog.abivin.vn/2020/01/how-to-use-google-colab-to-run-c-code](https://blog.abivin.vn/2020/01/how-to-use-google-colab-to-run-c-code.html?m=1)
+![C in Google Colab](/C,CPP%20Sig/C%20in%20Google%20Colab.jpg?raw=true "Title")
+
 * `i++` is use then compute.
 * `++i` is compute then use.
 * Test Case Generator Library | This is a test case generator library in python. You can use it to generate the required test cases. It exports test cases to `input.txt`, by default | [github.com/ay2306/Competitive-Programming/tree/master/Self_made_libraries](https://github.com/ay2306/Competitive-Programming/tree/master/Self_made_libraries)
