@@ -1,2 +1,3 @@
 # CodingNotes
-I will upload my programming related Google Colab notebooks here.
+- I will upload my archived notebooks here.
+- They may or may not relate to coding.
