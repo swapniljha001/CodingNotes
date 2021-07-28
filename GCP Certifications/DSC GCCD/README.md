@@ -11,7 +11,7 @@
 ## Path
 ![](https://github.com/swapniljha001/CodingNotes/blob/master/GCP%20Certifications/DSC%20GCCD/image_2021-01-23_12-20-08.png)
 
-## Techical Learning Path
+## Technical Learning Path
 ![](https://github.com/swapniljha001/CodingNotes/blob/master/GCP%20Certifications/DSC%20GCCD/Screenshot%20from%202021-01-23%2020-23-26.png)
 
 ## Other Resources
