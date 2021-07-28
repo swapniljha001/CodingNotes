@@ -1,6 +1,8 @@
 # Developer's Student Club Google Cloud Community Days
 
 - [Badge of GCCD](https://github.com/swapniljha001/CodingNotes/blob/master/GCP%20Certifications/DSC%20GCCD/badge.png)
+- [GCCD Day 1](https://youtu.be/IRohz-otXUc)
+- [GCCD Day 2](https://youtu.be/s2zhGLylii0)
 
 ## About the exams
 1. Length - 2 hours
