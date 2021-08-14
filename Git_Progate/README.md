@@ -8,6 +8,8 @@ These are the most commonly used commands.
 ```
 git clone repo_URL
 
+cd repo_folder
+
 * Make changes here *
 
 git config user.email username@example.com
@@ -19,4 +21,8 @@ git add .
 git commit -m "Commit Message"
 
 git push origin master
+
+* Enter email and personal token as password *
 ```
+
+You need to generate a personal token on GitHub Developer settings in order to push files to the original repo.
