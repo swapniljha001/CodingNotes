@@ -20,7 +20,7 @@ git add .
 
 git commit -m "Commit Message"
 
-git push origin master
+git push origin main
 
 * Enter email and personal token as password *
 ```
