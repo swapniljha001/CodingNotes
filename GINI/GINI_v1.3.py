@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from langchain.chains.router import MultiPromptChain
 from langchain.chains.router.llm_router import LLMRouterChain, RouterOutputParser
@@ -147,7 +148,7 @@ llm_model = "gpt-3.5-turbo"
 llm = ChatOpenAI(
     temperature=0.9,
     model=llm_model,
-    openai_api_key="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")
+    openai_api_key=os.environ.get("SECRET"))
 
 # SetUpDestinationChainsandRouting
 destination_chains = {}
