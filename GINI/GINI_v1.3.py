@@ -1,25 +1,4 @@
 import os
-# import subprocess, sys, importlib.util
-
-# # Function to check and install missing libraries
-# def install_missing_libraries(libraries):
-#     for lib in libraries:
-#         if importlib.util.find_spec(lib) is None:
-#             print("Installing:", lib)
-#             subprocess.check_call([sys.executable, "-m", "pip", "install", lib, "--quiet"])
-
-# # List of required libraries
-# required_libraries = [
-#     "streamlit",
-#     "langchain",
-#     "langchain-community",
-#     "langchain-core",
-#     "langchain-openai"
-# ]
-
-# # Install missing libraries
-# install_missing_libraries(required_libraries)
-
 import streamlit as st
 from langchain.chains.router import MultiPromptChain
 from langchain.chains.router.llm_router import LLMRouterChain, RouterOutputParser
