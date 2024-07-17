@@ -1,4 +1,4 @@
-import os
+import os, subprocess, sys, importlib.util
 
 # Function to check and install missing libraries
 def install_missing_libraries(libraries):
