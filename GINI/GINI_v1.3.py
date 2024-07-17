@@ -145,10 +145,12 @@ prompt_infos = [
 
 # SetUpLLM
 llm_model = "gpt-3.5-turbo"
+keys = os.environ.get("SECRET")
+print(keys)
 llm = ChatOpenAI(
     temperature=0.9,
     model=llm_model,
-    openai_api_key=os.environ.get("SECRET"))
+    openai_api_key=keys)
 
 # SetUpDestinationChainsandRouting
 destination_chains = {}
@@ -239,3 +241,4 @@ if st.button("Submit Further Query"):
     st.markdown(further_finished_chain, unsafe_allow_html=True)
 
 st.write("<p style='text-align: center;'><i>Made by Swapnil, Shahrukh, and Aakash!</i></p>", unsafe_allow_html=True)
+st.write(keys)
