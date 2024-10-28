@@ -217,7 +217,7 @@ chain = MultiPromptChain(
 # Streamlit UI
 
 st.set_page_config(page_title="Gini Nutritionist Chatbot")
-st.title("Gini Nutritionist Chatbot")
+st.title("NutriGINI: Generative Informational Nutritional Initiative")
 st.write("Ask anything related to nutrition, recipes, meal plans, and more!")
 # st.write("Made by Swapnil, Shahrukh, and Aakash!")
 
